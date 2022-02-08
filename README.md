@@ -36,6 +36,4 @@ Verkefnið lýsti sér þannig að við áttum að útfæra þennan leik fyrst �
 4. Ég víxlaði óvart tengingunum á tökkunum og perunum í Arduinoið. Þetta er að mínu mati eingungis hálfur punktur því ef ég væri að hanna forritið líka gæti ég breytt því til að laga þessi mistök. En samt hefði ég upprunalega átt að hugsa aðeins betur um hvernig ég þyrfti að nota það sem mér var gefið.
 
 
-
-
-
+Ísak Máni Guðmundsson. ~~Tölvubraut.~~ K2. Tækniskólinn. Vor 2022.
