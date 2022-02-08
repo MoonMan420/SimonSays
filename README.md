@@ -4,6 +4,8 @@
 
 Verkefnið lýsti sér þannig að við áttum að útfæra þennan leik fyrst á brauðbretti og svo að lóða það saman á veroborði. Við þurftum einnig að útfæra rocker switch til að kveikja og slökkva á batteríinu sem var notað í stað snúru úr tölvu. Við þurftum einnig að útfæra kassan í kringum allt heila klabbið í inkskape og laser skera það úr krossvið í Framtíðarstofunni.
 
+---
+
 ### Ljósmyndir og myndbönd af kassanum, brauðbrettisútfærslunni og lokaafurð.
 
 ![braudbretti](https://user-images.githubusercontent.com/34522977/152983606-2e970b6d-2575-483c-9ea7-e22afafeada8.jpg)
@@ -18,13 +20,14 @@ Verkefnið lýsti sér þannig að við áttum að útfæra þennan leik fyrst �
 
 [Lokaafurð myndband](https://youtu.be/1Ev0W0z_z-8)
 
+---
+
 ### Hvað fór vel?
 
 1. Ég setti tvær framlengingar á lokið til að opna það. Þetta minkar álag á báða og minnkar hættu á að hann brotni og það verði leiðinlegt að opna kassann.
 2. Þegar ég setti kassan fyrst saman var hann frekar stífur og ég var hræddur um að það yrði leiðinlegt að vinna með hann, en með næstu tveimur samsettningum varð hann lausari og er núna frábær, heldur sér saman án trélíms en er ekki erfiður þegar maður vill taka hann í sundur.
 3. Það endaði allt á því að virka svo ég er sáttur með það.
 4. Ég fékk ekki covid og náði að klára verkefnið, sem ég var allveg gríðarlega sáttur með :).
-
 
 
 ### Hvað hefði mátt fara betur? 
@@ -35,5 +38,6 @@ Verkefnið lýsti sér þannig að við áttum að útfæra þennan leik fyrst �
 3. Vírarnir úr veroborðinu í perurnar og takkana voru of langir. Ég pældi ekki í því aða þeir myndu vera bara rétt fyrir ofan veroborðið og ég var hræddur við að hafa þá of stutta
 4. Ég víxlaði óvart tengingunum á tökkunum og perunum í Arduinoið. Þetta er að mínu mati eingungis hálfur punktur því ef ég væri að hanna forritið líka gæti ég breytt því til að laga þessi mistök. En samt hefði ég upprunalega átt að hugsa aðeins betur um hvernig ég þyrfti að nota það sem mér var gefið.
 
+---
 
-Ísak Máni Guðmundsson. ~~Tölvubraut.~~ K2. Tækniskólinn. Vor 2022.
+**Ísak Máni Guðmundsson,** ~~Tölvubraut,~~ **K2, VESM1VS, Tækniskólinn, Vor 2022**
