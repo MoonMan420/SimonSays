@@ -1,6 +1,6 @@
 # SimonSays
 
-## *Klassíski Simon Says leikurinn þar sem maður ýtir á takkann sem lýsir. Þessi leikur reynir á minni leikmanns að muna runurnar af ljósum og íta á takkana í réttri röð.*
+## *Klassíski Simon Says minnisleikurinn. Þessi leikur reynir á minni leikmanns að muna runurnar af ljósum og íta á takkana í réttri röð.*
 
 Verkefnið lýsti sér þannig að við áttum að útfæra Simon Says leikinn fyrst á brauðbretti og svo að ger hann aðeins varnalegri með því að lóða allt saman á veroborði. Við þurftum einnig að útfæra rocker switch til að kveikja og slökkva á Ardunio-inu sem var notað í stað snúru úr tölvu. Við þurftum einnig að útfæra kassan í kringum allt heila klabbið í inkskape og laser skera það úr krossvið í Framtíðarstofunni.
 [`Kóðinn`](https://github.com/MoonMan420/SimonSays/blob/main/K%C3%B3%C3%B0i "Kóðinn er eftir Robert Spann")
