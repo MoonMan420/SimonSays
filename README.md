@@ -3,22 +3,21 @@
 ## *Klassíski Simon Says leikurinn þar sem maður ýtir á takkann sem lýsir. Þessi leikur reynir á minni leikmanns að muna runurnar af ljósum og íta á takkana í réttri röð.*
 
 Verkefnið lýsti sér þannig að við áttum að útfæra Simon Says leikinn fyrst á brauðbretti og svo að ger hann aðeins varnalegri með því að lóða allt saman á veroborði. Við þurftum einnig að útfæra rocker switch til að kveikja og slökkva á Ardunio-inu sem var notað í stað snúru úr tölvu. Við þurftum einnig að útfæra kassan í kringum allt heila klabbið í inkskape og laser skera það úr krossvið í Framtíðarstofunni.
-
 [Kóðinn](https://github.com/MoonMan420/SimonSays/blob/main/K%C3%B3%C3%B0i)
+
 ---
 
 ### Ljósmyndir og myndbönd af kassanum, brauðbrettisútfærslunni og lokaafurð.
 
 ![braudbretti](https://user-images.githubusercontent.com/34522977/152983606-2e970b6d-2575-483c-9ea7-e22afafeada8.jpg)
-
-[Brauðbretti myndband](https://youtu.be/CsZ5UES0ric)
-
+![kassi](https://user-images.githubusercontent.com/34522977/152989554-4e772b8e-d6f8-4c71-acab-8cf4b7a69cc7.svg)
 ![vero_ofana](https://user-images.githubusercontent.com/34522977/152985284-849a446e-96e3-4fa2-8a69-9bc4e432dbbe.jpg)
 ![vero_undir](https://user-images.githubusercontent.com/34522977/152985291-93d84e9b-bafc-40a0-9a5d-bfbf31449852.jpg)
 ![takkar-ljos_lodun](https://user-images.githubusercontent.com/34522977/152985347-335e7d07-700f-48e2-990c-28a6e65cd14a.jpg)
 ![kassi_inni](https://user-images.githubusercontent.com/34522977/152985308-4df4546f-07a9-4fbc-a3a8-5d0af90554c3.jpg)
 ![lokaafurd](https://user-images.githubusercontent.com/34522977/152983573-69c5fd2e-4ad7-4f8f-ad4d-f75612105bd1.jpg)
 
+[Brauðbretti myndband](https://youtu.be/CsZ5UES0ric)
 [Lokaafurð myndband](https://youtu.be/1Ev0W0z_z-8)
 
 ---
